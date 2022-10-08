@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mohammadrezashariat
+- 👀 I’m interested in financial markets and deep learning
+- 🌱 I’m currently learning deep reinforcement learning 
+- 💞️ I’m looking to collaborate on automated trading bot
+- 📫 How to reach me e.mrshariat1994@gmail.com
